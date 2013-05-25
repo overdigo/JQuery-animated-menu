@@ -1,0 +1,5 @@
+li{display: inline-block;width:100px;height:50px;text-align:center;overflow:hidden;border:1px solid #FFFFFF;}
+ul li{background-color:#6AA63B;}
+a{text-decoration:none;color:#FFF;}
+li:hover{background-color:#00CC00;}
+a:hover{color:#000;}
